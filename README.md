@@ -8,7 +8,7 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 
 1. [x] Jokenpô
 2. [x] Simulador de Caixa Eletrônico
-3. Jogo da Forca
+3. [x] Jogo da Forca
 4. To-do List (manipulação de DOM)
 5. Jogo da Memória
 6. Cronômetro
