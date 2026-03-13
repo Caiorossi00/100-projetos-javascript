@@ -1,10 +1,10 @@
 # Repositório de Prática em JavaScript
 
-Este repositório é dedicado à prática constante de JavaScript por meio de pequenos projetos e exercícios objetivos.
+Este repositório é dedicado à prática constante de JavaScript por meio de projetos.
 A proposta é fortalecer os fundamentos da programação, reforçar o raciocínio lógico e aprimorar a capacidade de resolver problemas sem depender de ferramentas de inteligência artificial. Todos os projetos são desenvolvidos com base em conhecimento próprio, consulta à documentação e experimentação prática.
 Os exercícios evoluem de desafios básicos de lógica para aplicações no navegador, operações assíncronas e organização de código em aplicações mais estruturadas, garantindo progresso técnico contínuo.
 
-## Lista de Projetos
+## Lista de 100 Projetos
 
 1. [x] Jokenpô - (09/03/2026)
 2. [x] Simulador de Caixa Eletrônico - (10/03/2026)
