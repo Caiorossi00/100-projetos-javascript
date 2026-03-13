@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Jogo da Memória</title>
+
+    <style>
+      #tabuleiro {
+        display: grid;
+        grid-template-columns: repeat(5, 80px);
+        gap: 10px;
+        margin-top: 20px;
+      }
+
+      .carta {
+        width: 80px;
+        height: 80px;
+        background: gray;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 24px;
+        cursor: pointer;
+        color: transparent;
+      }
+
+      .carta.frente {
+        background: white;
+        color: black;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>Jogo da Memória</h1>
+
+    <div id="tabuleiro"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
