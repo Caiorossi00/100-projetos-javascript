@@ -13,7 +13,7 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 5. [x] Jogo da Memória - (13/03/2026)
 6. [x] Contador (+ / - / reset) - (14/03/2026)
 7. [x] Gerador de número aleatório - (14/03/2026)
-8. Conversor de temperatura
+8. [x] Conversor de temperatura - (14/03/2026)
 9. Relógio digital
 10. Cronômetro
 11. Timer regressivo
