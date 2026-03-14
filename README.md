@@ -14,18 +14,18 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 6. [x] Contador (+ / - / reset) - (14/03/2026)
 7. [x] Gerador de número aleatório - (14/03/2026)
 8. [x] Conversor de temperatura - (14/03/2026)
-9. Relógio digital
-10. Cronômetro
-11. Timer regressivo
-12. Gerador de cores HEX
-13. Gerador de senha
-14. Validador de senha
-15. Calculadora simples
-16. Calculadora de IMC
-17. Conversor de moedas
-18. Gerador de frases aleatórias
-19. Jogo de adivinhar número
-20. Simulador de dados (dice roller)
+9. [x] Relógio digital - (14/03/2026)
+10. Calculadora simples
+11. Gerador de cores HEX
+12. Gerador de senha
+13. Validador de senha
+14. Calculadora de IMC
+15. Conversor de moedas
+16. Gerador de frases aleatórias
+17. Jogo de adivinhar número
+18. Simulador de dados (dice roller)
+19. Verificador de palíndromo
+20. Gerador de tabuada
 
 21. Filtro de lista em tempo real
 22. Validador de formulário
