@@ -19,7 +19,7 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 11. [x] Gerador de cores HEX - (16/03/2026)
 12. [x] Gerador de senha - (16/03/2026)
 13. [x] Validador de senha - (16/03/2026)
-14. Calculadora de IMC
+14. [x] Calculadora de IMC - (16/03/2026)
 15. Conversor de moedas
 16. Gerador de frases aleatórias
 17. Jogo de adivinhar número
