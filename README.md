@@ -16,7 +16,7 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 8. [x] Conversor de temperatura - (14/03/2026)
 9. [x] Relógio digital - (14/03/2026)
 10. [x] Calculadora simples - (14/03/2026)
-11. Gerador de cores HEX
+11. [x] Gerador de cores HEX - (16/03/2026)
 12. Gerador de senha
 13. Validador de senha
 14. Calculadora de IMC
