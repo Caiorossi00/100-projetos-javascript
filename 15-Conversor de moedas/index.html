@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Conversor de Moedas</title>
+  </head>
+  <body>
+    <input type="number" id="valor" placeholder="Digite o valor" />
+
+    <select id="origem">
+      <option value="USD">USD</option>
+      <option value="BRL">BRL</option>
+      <option value="EUR">EUR</option>
+    </select>
+
+    <select id="destino">
+      <option value="USD">USD</option>
+      <option value="BRL">BRL</option>
+      <option value="EUR">EUR</option>
+    </select>
+
+    <button onclick="executarConversao()">Converter</button>
+
+    <p id="resultado">Resultado:</p>
+
+    <script src="script.js"></script>
+  </body>
+</html>
