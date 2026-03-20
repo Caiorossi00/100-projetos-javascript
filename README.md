@@ -27,8 +27,8 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 19. [x] Verificador de palíndromo - (19/03/2026)
 20. [x] Gerador de tabuada - (19/03/2026)
 
-21. Filtro de lista em tempo real
-22. Validador de formulário
+21. [x] Filtro de lista em tempo real - (20/03/2026)
+22. [x] Validador de formulário - (20/03/2026)
 23. Tabs interativas
 24. Accordion (FAQ expansível)
 25. Slider de imagens
