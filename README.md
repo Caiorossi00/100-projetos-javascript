@@ -29,7 +29,7 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 
 21. [x] Filtro de lista em tempo real - (20/03/2026)
 22. [x] Validador de formulário - (20/03/2026)
-23. Tabs interativas
+23. [x] Tabs interativas - (20/03/2026)
 24. Accordion (FAQ expansível)
 25. Slider de imagens
 
