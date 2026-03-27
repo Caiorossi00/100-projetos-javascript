@@ -35,7 +35,7 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 
 26. [x] Galeria de imagens com modal - (25/03/2026)
 27. [x] Dark mode toggle - (26/03/2026)
-28. Campo de busca com autocomplete
+28. [x] Campo de busca com autocomplete - (27/03/2026)
 29. Formulário multi-etapas
 30. Sistema de notificações
 
