@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulário multi-etapa</title>
+  </head>
+  <body>
+    <h2 id="progresso"></h2>
+
+    <div id="step-0">
+      <input type="text" id="nome" placeholder="Nome" /><br /><br />
+      <button onclick="proximo()">Próximo</button>
+    </div>
+
+    <div id="step-1">
+      <input type="email" id="email" placeholder="Email" /><br /><br />
+      <button onclick="voltar()">Voltar</button>
+      <button onclick="proximo()">Próximo</button>
+    </div>
+
+    <div id="step-2">
+      <input type="password" id="senha" placeholder="Senha" /><br /><br />
+      <button onclick="voltar()">Voltar</button>
+      <button onclick="enviar()">Enviar</button>
+    </div>
+
+    <p id="resultado"></p>
+    <script src="script.js"></script>
+  </body>
+</html>
