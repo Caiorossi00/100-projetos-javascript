@@ -37,7 +37,7 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 27. [x] Dark mode toggle - (26/03/2026)
 28. [x] Campo de busca com autocomplete - (27/03/2026)
 29. [x] Formulário multi-etapas - (28/03/2026)
-30. Sistema de notificações
+30. [x] Sistema de notificações - (29/03/2026)
 
 31. Sistema de comentários
 32. Ranking de pontuação
