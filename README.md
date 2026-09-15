@@ -4,7 +4,7 @@ Este repositório é dedicado à prática constante de JavaScript por meio de pr
 A proposta é fortalecer os fundamentos da programação, reforçar o raciocínio lógico e aprimorar a capacidade de resolver problemas sem depender de ferramentas de inteligência artificial. Todos os projetos são desenvolvidos com base em conhecimento próprio, consulta à documentação e experimentação prática.
 Os exercícios evoluem de desafios básicos de lógica para aplicações no navegador, operações assíncronas e organização de código em aplicações mais estruturadas, garantindo progresso técnico contínuo.
 
-## Lista de 100 Projetos
+## Lista de 50 Projetos
 
 1. [x] Jokenpô - (09/03/2026)
 2. [x] Simulador de Caixa Eletrônico - (10/03/2026)
@@ -42,8 +42,8 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 31. [x] Sistema de comentários - (29/03/2026)
 32. [x] Ranking de pontuação - (01/04/2026)
 33. [x] Quiz simples - (02/04/2026)
-34. Quiz com pontuação
-35. Quiz com ranking
+34. [x] Quiz com pontuação - (15/09/2026)
+35. [x] Quiz com ranking - (15/09/2026)
 
 36. Lista de compras
 37. Lista de contatos
@@ -62,66 +62,6 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 48. Carrinho de compras
 49. Sistema de avaliação com estrelas
 50. Editor de texto simples
-
-51. Editor de Markdown
-52. Editor de formulários dinâmicos
-53. Sistema de tags
-54. Upload de imagem com preview
-55. Galeria com drag and drop
-
-56. Buscador de CEP
-57. Buscador de clima
-58. Buscador de usuários do GitHub
-59. Buscador de filmes
-60. Buscador de livros
-
-61. Lista de Pokémons (API)
-62. Tradutor simples
-63. Conversor de moedas com API
-64. Gerador de imagens aleatórias (API)
-65. Feed de notícias
-
-66. Dashboard de dados
-67. Dashboard com filtros interativos
-68. Galeria com infinite scroll
-69. Sistema de busca global
-70. Upload de arquivos com barra de progresso
-
-71. Player de música
-72. Player de vídeo customizado
-73. Sistema de filtros múltiplos
-74. Editor visual simples
-75. Sistema de notificações em tempo real
-
-76. Jogo da velha
-77. Snake
-78. Pong
-79. Campo minado
-80. Sudoku
-
-81. Tetris simples
-82. Jogo de cartas simples
-83. Simulador de batalha RPG
-84. Sistema de inventário RPG
-85. Simulador de economia simples
-
-86. Router em JavaScript
-87. Gerenciador de estado simples
-88. Sistema de autenticação fake
-89. Dashboard multi-página
-90. Kanban board estilo Trello
-
-91. Sistema de chat
-92. Editor colaborativo simples
-93. CMS simples
-94. Construtor de landing pages
-95. Clone simples do Trello
-
-96. Clone simples do Twitter
-97. App de notas estilo Notion
-98. Gerenciador financeiro completo
-99. E-commerce básico
-100. Mini framework front-end em JavaScript
 
 ## Diretrizes de Prática
 
