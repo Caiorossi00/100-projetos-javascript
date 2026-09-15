@@ -45,11 +45,11 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 34. [x] Quiz com pontuação - (15/09/2026)
 35. [x] Quiz com ranking - (15/09/2026)
 
-36. Lista de compras
-37. Lista de contatos
-38. Agenda de eventos
-39. Bloco de notas
-40. Rastreador de hábitos
+36. [x] Lista de compras - (15/09/2026)
+37. [x] Lista de contatos - (15/09/2026)
+38. [x] Agenda de eventos - (15/09/2026) 
+39. [x] Bloco de notas - (15/09/2026)
+40. [x] Rastreador de hábitos - (15/09/2026)
 
 41. Diário pessoal
 42. Lista de filmes para assistir
