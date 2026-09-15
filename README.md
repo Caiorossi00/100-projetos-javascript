@@ -51,10 +51,10 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 39. [x] Bloco de notas - (15/09/2026)
 40. [x] Rastreador de hábitos - (15/09/2026)
 
-41. Diário pessoal
-42. Lista de filmes para assistir
-43. Sistema de favoritos
-44. Histórico de pesquisas
+41. [x] Diário pessoal - (15/09/2026)
+42. [x] Lista de filmes para assistir - (15/09/2026)
+43. [x] Sistema de favoritos - (15/09/2026)
+44. [x] Histórico de pesquisas - (15/09/2026)
 45. Controle de despesas
 
 46. Simulador de empréstimo
