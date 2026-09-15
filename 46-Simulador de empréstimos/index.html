@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Simulador de empréstimo</title>
+  </head>
+  <body>
+    <h2>Simulador de empréstimo</h2>
+
+    <input type="number" id="valor" placeholder="Valor do empréstimo" step="0.01" />
+    <input type="number" id="juros" placeholder="Juros mensal (%)" step="0.01" />
+    <input type="number" id="parcelas" placeholder="Número de parcelas" />
+
+    <button onclick="simularEmprestimo()">Simular</button>
+
+    <div id="resultado"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

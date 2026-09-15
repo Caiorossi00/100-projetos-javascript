@@ -55,10 +55,10 @@ Os exercícios evoluem de desafios básicos de lógica para aplicações no nave
 42. [x] Lista de filmes para assistir - (15/09/2026)
 43. [x] Sistema de favoritos - (15/09/2026)
 44. [x] Histórico de pesquisas - (15/09/2026)
-45. Controle de despesas
+45. [x] Controle de despesas - (15/09/2026)
 
-46. Simulador de empréstimo
-47. Simulador de investimentos
+46. [x] Simulador de empréstimo - (15/09/2026)
+47. [x] Simulador de investimentos - (15/09/2026)
 48. Carrinho de compras
 49. Sistema de avaliação com estrelas
 50. Editor de texto simples

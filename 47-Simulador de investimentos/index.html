@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Simulador de investimentos</title>
+  </head>
+  <body>
+    <h2>Simulador de investimentos</h2>
+
+    <input type="number" id="inicial" placeholder="Aporte inicial" step="0.01" />
+    <input type="number" id="mensal" placeholder="Aporte mensal" step="0.01" />
+    <input type="number" id="juros" placeholder="Rendimento mensal (%)" step="0.01" />
+    <input type="number" id="periodo" placeholder="Período em meses" />
+
+    <button onclick="simularInvestimento()">Simular</button>
+
+    <div id="resultado"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

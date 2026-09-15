@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Controle de despesas</title>
+  </head>
+  <body>
+    <h2>Controle de despesas</h2>
+
+    <input type="text" id="descricao" placeholder="Descrição" />
+    <input type="text" id="categoria" placeholder="Categoria" />
+    <input type="number" id="valor" placeholder="Valor" step="0.01" />
+
+    <button onclick="adicionarDespesa()">Adicionar</button>
+
+    <h3>Despesas</h3>
+    <ul id="lista"></ul>
+
+    <h3 id="total">Total: R$ 0,00</h3>
+
+    <script src="script.js"></script>
+  </body>
+</html>
