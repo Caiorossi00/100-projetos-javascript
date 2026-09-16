@@ -94,4 +94,6 @@ Mais do que concluir uma lista de projetos, o objetivo é desenvolver maior auto
 
 ---
 
-<img src="./50-Editor de texto/diary.jpg" width="500">
+<div align="center">
+  <img src="./50-Editor de texto/diary.jpg" width="500">
+</div>
