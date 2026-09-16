@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carrinho de compras</title>
+  </head>
+  <body>
+    <h2>Carrinho de compras</h2>
+
+    <input type="text" id="produto" placeholder="Produto" />
+    <input type="number" id="preco" placeholder="Preço" step="0.01" />
+    <input type="number" id="quantidade" placeholder="Quantidade" min="1" />
+
+    <button onclick="adicionarProduto()">Adicionar</button>
+
+    <h3>Carrinho</h3>
+    <ul id="carrinho"></ul>
+
+    <h3 id="total">Total: R$ 0,00</h3>
+
+    <script src="script.js"></script>
+  </body>
+</html>
