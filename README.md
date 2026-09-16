@@ -91,3 +91,7 @@ Este repositório funciona como um ambiente pessoal de treinamento para fortalec
 A intenção não é criar aplicações completas ou visualmente elaboradas, mas transformar conceitos da linguagem em código escrito e pensado ativamente.
 
 Mais do que concluir uma lista de projetos, o objetivo é desenvolver maior autonomia para analisar problemas, estruturar soluções e escrever JavaScript sem depender constantemente de ferramentas de inteligência artificial.
+
+---
+
+<img src="./50-Editor de texto/diary.jpg" width="500">
