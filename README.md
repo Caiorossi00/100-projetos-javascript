@@ -15,7 +15,7 @@ As descrições e documentações dos projetos foram elaboradas com auxílio de 
 - Priorizar a resolução independente dos problemas
 - Lidar com um problema ao dia, no ritmo que ficar confortável
 
-# Minha metodologia
+## Minha metodologia
 
 Mantive um pequeno caderno com a lista dos problemas e, nos momentos livres, escrevia as soluções no papel antes de passá-las para o computador. A ideia era exercitar a lógica, a estrutura do código e a memória da linguagem sem depender imediatamente do editor ou de ferramentas externas, pensar na resolução de desafios nos momentos livres no dia a dia.
 
